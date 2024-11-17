@@ -7,5 +7,10 @@ class PlayerController: mono...
 if Intput():
 {print(''hello world)}
 
+if INPUT.GetKeyDown(KeyCode.Space)
+{
+
+  Instantiate(объект, тут и так)
+}
 
 }
