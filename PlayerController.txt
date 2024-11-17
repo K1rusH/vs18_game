@@ -1,0 +1,11 @@
+using Unity
+
+class PlayerController: mono...
+{
+когда я прыгаю, персонаж включает анимацию
+
+if Intput():
+{print(''hello world)}
+
+
+}
